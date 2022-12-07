@@ -90,12 +90,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Consolidated teh three classes */
+/* Consolidated the three classes */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Consolidated teh three classes */
+/* Consolidated the three classes */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;

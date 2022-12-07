@@ -8,6 +8,29 @@ By David Lee
 HTML
 CSS
 
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+## Acceptance Criteria
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements*
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes*
+WHEN I view the heading attributes
+THEN they fall in sequential order*
+WHEN I view the title element
+THEN I find a concise, descriptive title*
+```
 
 ## About
 The Horiseon project is a demonstration site that showcases HTML and CSS. The site has a navigation bar at the top that showcase three specific topics when it comes to growing a business utilizing internet properties.   
@@ -21,10 +44,14 @@ The problems I faced was understanding proper HTML semantics and the purpose of 
 Utilizing the site is simple! 
 
 Load the site by copying and pasting the link on to a browser.
-* 
+* https://kpxcrew.github.io/homework1/
 
 Once open, click on any of the three topics in the navigation bar. The title will redirect you to the location on the page that porvides more information in respect to the subject. 
 
+## Screenshots
+![Screenshot1](./assets/images/Screenshot1.png)
+![Screenshot2](./assets/images/Screenshot2.png)
+![Screenshot3](./assets/images/Screenshot3.png)
 
 ## Sources
 https://www.w3schools.com/html
